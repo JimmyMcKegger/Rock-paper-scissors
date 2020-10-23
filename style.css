@@ -1,0 +1,30 @@
+body {
+    background: darkslategray;
+}
+
+
+h1 {
+    color: greenyellow;
+    display: grid;
+    text-align: center;
+}
+div {
+    width: 100%;
+    justify-content: center;
+}
+p {
+    color: greenyellow;
+    align-content: center;
+}
+
+button {
+    width: 20%;
+    justify-self: center;
+    align-items: center;
+}
+.game{
+    display: flex;
+    justify-content: center;
+    align-items: center
+    ;
+}
